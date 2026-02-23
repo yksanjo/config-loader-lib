@@ -1,5 +1,12 @@
 # config-loader-lib
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/config-loader-lib/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/config-loader-lib/actions)
+![License](https://img.shields.io/github/license/yksanjo/config-loader-lib)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/config-loader-lib)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/config-loader-lib)
+
 ## Detailed Description
 
 config-loader-lib is maintained as an industry-grade software project with production-ready engineering practices.  
